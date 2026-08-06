@@ -1,4 +1,9 @@
-# 100x Research Project
+# 100x Research Project: B2B SaaS Cold Outreach Engine
+
+> 📘 **Master Deliverable:** Read the complete operational standard operating procedure in **[PLAYBOOK.md](file:///c:/Users/sidar/Desktop/100x/PLAYBOOK.md)**.
+> It includes fully-cited SOP workflows, expert debate analyses, rejected tactics, original outbound frameworks, system weaknesses, and anti-recommendations.
+
+---
 
 ## Research Topic: Cold Outreach Pipeline for B2B SaaS
 
